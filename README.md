@@ -4,7 +4,7 @@ Taskly! a new Flutter project.
 
 ## Getting Started
 - used: Hive database
-Functinality: 
+## Functinality: 
 - to create new task click on "+" button
 - to mark done tap on the specific task
 - to delete task long press on the task 
