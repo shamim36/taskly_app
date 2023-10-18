@@ -1,8 +1,16 @@
 # taskly_app
 
-A new Flutter project.
+Taskly! a new Flutter project.
 
 ## Getting Started
+Functinality: 
+- to create new task click on "+" button
+- to mark done tap on the specific task
+- to delete task long press on the task 
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+
 
 This project is a starting point for a Flutter application.
 
