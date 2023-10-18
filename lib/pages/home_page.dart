@@ -89,6 +89,7 @@ class _HomePageState extends State<HomePage> {
             _box!.deleteAt(_index);
             setState(() {});
           },
+          
         );
       },
     );

@@ -3,6 +3,7 @@
 Taskly! a new Flutter project.
 
 ## Getting Started
+- used: Hive database
 Functinality: 
 - to create new task click on "+" button
 - to mark done tap on the specific task
@@ -12,7 +13,7 @@ Functinality:
 - ![Alt text](image-1.png)
 - ![Alt text](image-2.png)
 
-- used: Hive
+
 
 This project is a starting point for a Flutter application.
 
