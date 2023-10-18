@@ -12,6 +12,7 @@ Functinality:
 - ![Alt text](image-1.png)
 - ![Alt text](image-2.png)
 
+- used: Hive
 
 This project is a starting point for a Flutter application.
 
